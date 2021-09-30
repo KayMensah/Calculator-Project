@@ -1,0 +1,43 @@
+.main-body {
+	width: 1000px;
+	margin-top: 20px;
+	margin-left: 200px;
+}
+.main {
+	background-color: grey;
+	text-align: right;
+	color: white;
+	height: 10vh;
+	font-size: 40px;
+
+}
+.line1 {
+	background-color: lightgrey;
+	height: 10vh;
+	text-align: center;
+	font-size: 40px;
+	border-bottom: solid white 1px;
+}
+.line2 {
+	background-color: lightgrey;
+	height: 10vh;
+	text-align: center;
+	font-size: 40px;
+}
+.sign {
+	background-color: orange;
+	height: 10vh;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+	border-bottom: solid white 1px;
+}
+.lineleft {
+	border-left: solid white 1px;
+}
+.lineleft2 {
+	border-left: solid white 1px;
+}
+.lineleft3 {
+	border-left: solid white 1px;
+}
